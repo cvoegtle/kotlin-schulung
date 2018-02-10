@@ -1,2 +1,2 @@
-# kotlin-schulung
-Schulungsprojekt um einem Programmieranfänger Kotlin beizubringen
+# Kotlin Schulung
+Programmieren lernen in der Sprache Kotlin
